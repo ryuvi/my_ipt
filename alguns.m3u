@@ -1,0 +1,65 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Categoria", Cinemax
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vignette.wikia.nocookie.net/logopedia/images/5/53/Max_Prime_2012.png" group-title="Categoria", Max Prime
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(MAX_PRIME_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Categoria",  TELECINE ACTION 
+http://BelcoCanaisHDPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Categoria", TELECINE PIPOCA HD
+http://painel.tvdigitalsbl.net:8081/live/marcusvnv55/654554154/486.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/2jfszl5.png" group-title="Categoria", OS MERCENÃRIOS (2010)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMRCNRS01.mp4?FELIPEGRAIN
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/EMsOzFS.jpg" group-title="Categoria", OS MERCENÃRIOS 3 (2014)
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OMRCNRS03.mp4?FELIPEGRAIN
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/puu.sh/reJpA/bdc45a314f.png" group-title="Categoria", Animal Planet
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/oi67.tinypic.com/2m4ss2f.jpg" group-title="Categoria", DISCOVERY CHANNEL
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_f1tv_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/puu.sh/reRWX/1a8a31aab2.png" group-title="Categoria", Discovery H&H
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/UMH8530h.jpg" group-title="Categoria", Tv Filmes & SÃ©ries
+http://stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.totalplay.com.mx/images/logos/canales/can_hd/amc.png" group-title="Categoria", AMC
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/JYislkb.png" group-title="Categoria", AMC
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AMC_HD)/Stream(01)/index.m3u8?formigatv
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/S5PsDDR.png" group-title="Categoria", Cartoon Network
+http://95.141.35.104:8081/look/cartoon8/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/OllOkJF.png" group-title="Categoria", FOX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i65.tinypic.com/x6g3kw.png" group-title="Categoria", FX_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FX_HD)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.totalplay.com.mx/images/logos/canales/hbomax/1.png" group-title="Categoria", HBO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tvmagazine.com.br/imagens/icones/600/hbo2b.png" group-title="Categoria", HBO 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/x2Enlmt.png" group-title="Categoria", HBO Family
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8?formigatv
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Categoria", HBO Plus
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/s20.postimg.org/7rlpqry4p/Megapix.png" group-title="Categoria", MEGAPIX HD
+http://painel.tvdigitalsbl.net:8081/live/marcusvnv55/654554154/475.ts
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.tntla.com/billboard/images/logo_tnt_grey.png" group-title="Categoria", TNT
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
+
