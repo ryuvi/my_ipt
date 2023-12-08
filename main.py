@@ -1,5 +1,4 @@
 import subprocess
-import time
 
 lista_antiga = []
 lista_nova = []
@@ -7,10 +6,9 @@ atualizar_antiga = False
 commitar = False
 
 while True:
-    print("Waiting for change!")
     if commitar:
         subprocess.run(["git", "add", "."])
-        subprocess.run(["git", "commit", "-m", '"a"'])
+        subprocess.run(["git", "commit", "-m", "a"])
         subprocess.run(["git", "push", "-u", "origin", "main"])
         commitar = False
     if atualizar_antiga:
