@@ -17,3 +17,6 @@ http://208.115.225.174:14140/
 
 #EXTINF:-1 tvg-logo="https://imgur.com/2dINPFY.png" group-title="Canais | HBO",HBO Family FHD
 http://208.115.225.174:14144/
+
+#EXTINF:-1 tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | HBO",HBO Signature
+http://208.115.225.174:14160/
