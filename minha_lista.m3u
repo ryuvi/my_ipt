@@ -24,8 +24,11 @@ http://208.115.225.174:14160/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QzbWqis.png" group-title="Canais | HBO",HBO Xtreme HD
 http://208.115.225.174:14165/
 
-#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | History",History HD
+#EXTINF:-1 tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais | Documentario",History HD
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | History",History 2 HD
+#EXTINF:-1 tvg-logo="https://imgur.com/rgDKfki.png" group-title="Canais | Documentario",History 2 HD
 http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-logo="https://imgur.com/t97qwNh.png" group-title="Canais | Documentario",Animal Planet HD
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
