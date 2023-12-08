@@ -38,3 +38,9 @@ https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/kA3ov0x.png" group-title="Canais | Filmes",TNT HD
 https://cdn-1.nxplay.com.br/TNT_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/faV3eZx.png" group-title="Canais | Filmes",Telecine Action HD
+http://64.31.40.14:14056/live/TelecineActionHD/720p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/cPTZMTo.png" group-title="Canais | Filmes",Telecine Pipoca HD
+http://191.37.250.169:8801/live/TelecinePipocaHD/720p.m3u8
