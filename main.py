@@ -1,21 +1,13 @@
-import subprocess
+bbat = open("bbat.m3u", "r").read()
 
-lista_antiga = []
-lista_nova = []
-atualizar_antiga = False
-commitar = False
+name = ""
+details = []
+final = 
 
-while True:
-    if commitar:
-        subprocess.run(["git", "add", "."])
-        subprocess.run(["git", "commit", "-m", "a"])
-        subprocess.run(["git", "push", "-u", "origin", "main"])
-        commitar = False
-    if atualizar_antiga:
-        lista_antiga = open("minha_lista.m3u", "r").read()
-        atualizar_antiga = False
+for line in bbat:
+    if line.startswith("#EXTINF"):
+        item = line.split(",")
+        name = 
 
-    lista_nova = open("minha_lista.m3u", "r").read()
-    if lista_nova != lista_antiga:
-        atualizar_antiga = True
-        commitar = True
+#EXTINF:-1 tvg-logo="http://bit.ly/2igU9Hj" group-title="1° TEMPORADA", BBAT T1|EP1
+#http://origin.ntcdn.us/content/sobdemanda/netcine-bucket/tbbt/01dub/01-ALTO.mp4
