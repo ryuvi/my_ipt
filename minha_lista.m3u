@@ -59,3 +59,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 
 #EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/63dd5c904e83e700088fb68a/colorLogoPNG.png" group-title="Canais | Anime",AS Tartarugas Ninja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-logo="https://imgur.com/apmQ6X7.png" group-title="Canais | Anime",Os Simpsons
+https://livestream.zazerconer.workers.dev/channel/UCJzNeXlGA63Yo2_YUW1YU6w.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/0iT4S27.png" group-title="Canais | Anime",Caverna do Dragão 
+https://livestream.zazerconer.workers.dev/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8
