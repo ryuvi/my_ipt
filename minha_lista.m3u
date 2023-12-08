@@ -138,5 +138,5 @@ http://shd9.mflixhd.xyz/token/SHD9/232644/1x7.mp4
 #EXTINF:-1  tvg-logo="https://imgur.com/nK0SOFd.png" group-title="B.O",BO S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x8.mp4
 
-#extm3u:-13 tvg-logo="https://t.ly/E33d" group-title="Canais | HBO", HBO 
+#EXTINF:-1 tvg-logo="https://t.ly/E33d" group-title="Canais | HBO",HBO 
 https://server101.online/hbo/tracks-v1a1/mono.m3u8?remote=179.70.43.246&token=6d79113cec9adb4116cadf03454ae5b142b63226-163407c1b1ec600246805f575a02e0ad-1685806762-1685803162
