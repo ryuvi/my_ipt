@@ -138,5 +138,12 @@ http://shd9.mflixhd.xyz/token/SHD9/232644/1x7.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="B.O",BO S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x8.mp4
 
-#EXTINF:-1 tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Canais | HBO",HBO
-http://listaiptv.brcs.ml:8080/SD_HBO/video.m3u8?token=97b2dc2c54a7dfd53838da34ae467ffa
+#EXTINF:-1 group-title="Canais | HBO" ,HBO1 FHD [H265]
+http://splaytv.club:80/tes4587/GnzMdH4edf/83351
+
+#EXTINF:-1 group-title="Canais | HBO" ,HBO1 SD
+http://splaytv.club:80/tes4587/GnzMdH4edf/83572
+#EXTINF:-1 group-title="Canais | HBO" ,HBO1 FHD
+http://splaytv.club:80/tes4587/GnzMdH4edf/140708
+#EXTINF:-1 group-title="Canais | HBO" ,HBO1 HD
+http://splaytv.club:80/tes4587/GnzMdH4edf/83225
