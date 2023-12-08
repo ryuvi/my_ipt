@@ -138,12 +138,616 @@ http://shd9.mflixhd.xyz/token/SHD9/232644/1x7.mp4
 #EXTINF:-1 tvg-logo="https://imgur.com/nK0SOFd.png" group-title="B.O",BO S01 E08
 http://shd9.mflixhd.xyz/token/SHD9/232644/1x8.mp4
 
-#EXTINF:-1 group-title="Canais | HBO" ,HBO1 FHD [H265]
-http://splaytv.club:80/tes4587/GnzMdH4edf/83351
+#EXTM3U
 
-#EXTINF:-1 group-title="Canais | HBO" ,HBO1 SD
-http://splaytv.club:80/tes4587/GnzMdH4edf/83572
-#EXTINF:-1 group-title="Canais | HBO" ,HBO1 FHD
-http://splaytv.club:80/tes4587/GnzMdH4edf/140708
-#EXTINF:-1 group-title="Canais | HBO" ,HBO1 HD
-http://splaytv.club:80/tes4587/GnzMdH4edf/83225
+
+########### 1° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP01.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP02.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP03.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP04.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP05.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP06.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP07.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP08.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7a/Grey%27s_Anatomy_Season_One_DVD_Cover.jpg" group-title="Grey's Anatomy", 1º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT01EP09.mp4
+
+########### 2° Temporada #############
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP01.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP02.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP03.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP04.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP05.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP06.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP07.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP08.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP09.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP10.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP11.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP12.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomya",2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP13.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP14.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP15.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomya",2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP16.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP17.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP18.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP19.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP20.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP21.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP22.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP23.mp4
+#EXTINF:-1 tvg-logo="https://http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpggoo.gl/0jwx4x" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP24.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP25.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP26.mp4
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_aX7VSRMlQI4/TFJalfC5_CI/AAAAAAAADuc/wSmERvRDFcQ/s400/Grey%27s+Anatomy+-+2%C2%AA+Temporada+Completa.jpg" group-title="Grey's Anatomy", 2º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT02EP27.mp4
+
+########### 3° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy" 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP01.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP02.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP03.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP04.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP05.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP06.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP07.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy",3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP08.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP09.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP10.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP11.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP12.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP13.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP14.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP15.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP16.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP17.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP18.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP19.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP20.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP21.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP22.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP23.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP24.mp4
+#EXTINF:-1 tvg-logo="https://images-americanas.b2w.io/produtos/01/00/item/6712/1/6712161_1GG.jpg" group-title="Grey's Anatomy", 3º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/GRATT03EP25.mp4
+ 
+ ########### 4° Temporada ############# 
+
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/19ffd2e8.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/a6c2f3cc.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/697e449e.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/a5182760.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/00e39432.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/6eb103ae.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/fe64394e.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/b429d0b8.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/6a75746d.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/63cb7f2d.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/86aba7c8.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/1fa9e972.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/4404739c.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/33dd2f35.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/e844908c.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/0ce4e920.mp4
+#EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/525/5076525.jpg" group-title="Grey's Anatomy", 4º Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/2aa97657.mp4
+
+########### 5° Temporada #############
+
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/7c0bd952.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/dfd57971.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/32f3bc13.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/b804ef76.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/1a4a1d64.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/9b3c952d.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/9c8e015f.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/beac57c5.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/ac7cf041.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/914f76cb.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/df23c214.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/35ab02e1.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/2b831195.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/73f06a15.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/ca9a7806.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/3992980f.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/75bfe155.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/2b8064f6.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/835f47d8.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/4429a5fc.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/483bb8a1.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/4d166c69.mp4
+#EXTINF:-1 tvg-logo="http://dublaseries.tv/wp-content/uploads/2016/08/Grey%E2%80%99s-Anatomy-5%C2%AA-Temporada.jpg" group-title="Grey's Anatomy", 5° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/614a9fbe.mp4
+
+########### 6° Temporada #############
+
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/e6d8b6f4.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/fe1362ce.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/ca256250.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/a91f49dd.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/171f10a0.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/670315c5.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/e23dc32d.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/20fd8172.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/e2d6c0ec.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/6a678490.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/cb51cf96.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/cf2abf2b.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/78dc770d.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/8da1083b.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/7cbfbfb4.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/5cb37edd.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/1188d6d9.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/2e7f4124.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/b51a0cbe.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/c384725b.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/cc5de6c8.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/93be42a7.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/c170d1fa.mp4
+#EXTINF:-1 tvg-logo="http://www.tvshowsondvd.com/graphics/news3/Grey%27sAnatomy_S6_f.jpg" group-title="Grey's Anatomy", 6° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/9396c1ba.mp4
+
+########### 7° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/30cd98c6.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/85dfd48c.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/777eb5b0.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/4d9730ad.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/7f931a71.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/68cabe1a.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/5444744d.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/87c29f02.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/95c244fc.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/acdc47a4.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/cf4d78b9.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/853d3ff7.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/2cd233ae.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/cb577e59.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/4fa7fd0f.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/2a0f96a1.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/a6dc4093.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/a535526a.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/f9b5de63.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/02e3a11a.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/c0c57ba5.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/54/c7/f7/54c7f7ea039887892d01bcd3a4afe071.jpg" group-title="Grey's Anatomy", 7° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer01/videos/6a218d00.mp4
+
+########### 8° Temporada #############
+
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP01.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP02.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP03.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP04.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP05.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP06.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP07.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP08.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP09.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP10.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP11.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP12.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP13.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP14.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP15.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP16.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP17.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP18.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP19.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP20.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP21.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP22.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP23.mp4
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-9hBBYsLbBmU/TukPR88d7_I/AAAAAAAAAdE/N8Qzl3YexLY/s1600/GA8.jpg" group-title="Grey's Anatomy", 8° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer04/ondemand/GRATT08EP24.mp4
+
+########### 9° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP01.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP02.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP03.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP04.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP05.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP06.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP07.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP08.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP09.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP10.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP11.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP12.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP13.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP14.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP15.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP16.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP17.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP18.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP19.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP20.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP21.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP22.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP23.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Grey%27s_Anatomy_Season_9_DVD.jpg" group-title="Grey's Anatomy", 9° Temporada
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT09EP24.mp4
+
+########### 10° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP01.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP02.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP03.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP04.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP05.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP06.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP07.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP08.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP09.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP10.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP11.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP12.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP13.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP14.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP15.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP16.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP17.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP18.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP19.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP20.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP21.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP22.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP23.mp4
+#EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/736x/7e/0d/cc/7e0dcc341c90d3f0323c21fedb562ff9.jpg" group-title="10° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT10EP24.mp4
+
+########### 11° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP01.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP02.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP03.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP04.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP05.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP06.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP07.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP08.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP09.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP10.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP11.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP12.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP13.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP14.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP15.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP16.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP17.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP18.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP19.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP20.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP21.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP22.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP23.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/yLb76PdXGpCdDOURyGGY0jzi2NA=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2015/10/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="11° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer09/ondemand/GRATT11EP24.mp4
+
+########### 12° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP01.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP02.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP03.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada",
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP04.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP05.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP06.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP07.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP08.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT12EP09.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP10.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP11.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP12.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP13.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP14.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP15.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP16.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP17.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP18.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP19.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP20.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP21.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP22.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP23.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/eR8bG1BDdYl1r2xPe362SX0kun0=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2014/09/grey-s-anatomy-11a-temporada_t92840.jpg" group-title="12° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer10/ondemand/GRATT12EP24.mp4
+
+########### 13° Temporada #############
+
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada",
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP01.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada",
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP02.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP03.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP04.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP05.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP06.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP07.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP08.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP09.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP10.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATT13EP11.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP12.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP13.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP14.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP15.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP16.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP17.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada", 
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP18.mp4
+#EXTINF:-1 tvg-logo="https://img.fstatic.com/Oi2BWnIIp6EPROm-mNGmA-_rels=/fit-in/290x478/smart/https://cdn.fstatic.com/media/movies/covers/2016/08/greys.jpg" group-title="13° Temporada",
+http://vd.ec.cx/vd/dd/RC/RCServer11/ondemand/GRATS13EP19.mp4
