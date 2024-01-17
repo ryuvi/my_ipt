@@ -1,0 +1,33 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Canais | ABERTO", BBB 1
+http://xciptv.aplicativos.top/live/884202033/r537B8146t/298259.ts
+
+#EXTINF:-1 group-title="Canais | ABERTO", BBB 2
+http://khtro2.com/live/69754975141604/526502448518/493844.ts
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO + HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18765
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO 2 HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18757
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO FAMILY HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18761
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO MUNDI HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18773
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO POP HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18781
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO SIGNATURE HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18769
+
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" group-title="Canais | HBO", HBO XTREME HD²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18777
+
+
